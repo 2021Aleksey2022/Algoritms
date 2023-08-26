@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\AlgoritmC++\bin\Debug\AlgoritmC++.exe.config
+E:\Мои проекты в Visual Studio\AlgoritmC++\bin\Debug\AlgoritmC++.exe
+E:\Мои проекты в Visual Studio\AlgoritmC++\bin\Debug\AlgoritmC++.pdb
+E:\Мои проекты в Visual Studio\AlgoritmC++\obj\Debug\AlgoritmC++.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\AlgoritmC++\obj\Debug\AlgoritmC++.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\AlgoritmC++\obj\Debug\AlgoritmC++.exe
+E:\Мои проекты в Visual Studio\AlgoritmC++\obj\Debug\AlgoritmC++.pdb
