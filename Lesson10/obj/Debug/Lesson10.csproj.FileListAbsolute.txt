@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\Lesson10\bin\Debug\Lesson10.exe.config
+E:\Мои проекты в Visual Studio\Lesson10\bin\Debug\Lesson10.exe
+E:\Мои проекты в Visual Studio\Lesson10\bin\Debug\Lesson10.pdb
+E:\Мои проекты в Visual Studio\Lesson10\obj\Debug\Lesson10.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\Lesson10\obj\Debug\Lesson10.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\Lesson10\obj\Debug\Lesson10.exe
+E:\Мои проекты в Visual Studio\Lesson10\obj\Debug\Lesson10.pdb

@@ -1,0 +1,7 @@
+E:\Мои проекты в Visual Studio\Lesson10Merge_Sort\bin\Debug\Lesson10Merge_Sort.exe.config
+E:\Мои проекты в Visual Studio\Lesson10Merge_Sort\bin\Debug\Lesson10Merge_Sort.exe
+E:\Мои проекты в Visual Studio\Lesson10Merge_Sort\bin\Debug\Lesson10Merge_Sort.pdb
+E:\Мои проекты в Visual Studio\Lesson10Merge_Sort\obj\Debug\Lesson10Merge_Sort.csproj.AssemblyReference.cache
+E:\Мои проекты в Visual Studio\Lesson10Merge_Sort\obj\Debug\Lesson10Merge_Sort.csproj.CoreCompileInputs.cache
+E:\Мои проекты в Visual Studio\Lesson10Merge_Sort\obj\Debug\Lesson10Merge_Sort.exe
+E:\Мои проекты в Visual Studio\Lesson10Merge_Sort\obj\Debug\Lesson10Merge_Sort.pdb
